@@ -1,2 +1,6 @@
-# learning-reasonml
-A place to store ReasonML related code
+# Learning ReasonML
+
+## exercism
+
+[Exercises](http://exercism.io/exercises/reasonml)
+
