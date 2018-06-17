@@ -1,3 +1,33 @@
+*.js
+
+### BSB Generated ###
+*.exe
+*.obj
+*.out
+*.compile
+*.native
+*.byte
+*.cmo
+*.annot
+*.cmi
+*.cmx
+*.cmt
+*.cmti
+*.cma
+*.a
+*.cmxa
+*.obj
+*~
+*.annot
+*.cmj
+*.bak
+lib/bs
+*.mlast
+*.mliast
+.vscode
+.merlin
+
+### Node ###
 # Logs
 logs
 *.log
@@ -29,14 +59,14 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)
+# Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
 # Dependency directories
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files
+# Typescript v1 declaration files
 typings/
 
 # Optional npm cache directory
@@ -56,6 +86,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-# next.js build output
-.next
